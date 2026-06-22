@@ -1,0 +1,6 @@
+{
+  "name": "Rival Rebound Showcase",
+  "description": "An interactive showcase and simulator website for Rival Rebound, a real-time auditorium quiz platform built with React and Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
